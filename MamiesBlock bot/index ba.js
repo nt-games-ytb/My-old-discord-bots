@@ -10,7 +10,7 @@ const queue = new Map();
 
 var servers = {};
 
-client.login("NDgyMjA2NTQwNDg5NTU1OTY4.DmB3YQ.Hdjx6d2FrkwzvgrSPhME6Re9j_g");
+client.login("");
 
 function play(connection, message) {
     var server = servers[message.guild.id];
