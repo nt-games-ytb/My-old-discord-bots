@@ -3,7 +3,7 @@ Here are all the discord bot I created.
 It was my first real development project, that's why it's not perfect and it deserves a little cleaning and future improvement.     
 
 # How can I use ? 
-You need to have [Node.js](https://nodejs.org/) and [Discord.js](https://discord.js.org/) to use this.
+You need to have [Node.js](https://nodejs.org/) and [Discord.js](https://discord.js.org/) to use this.   
 You can run it on some software like [Visual Studio Code](https://code.visualstudio.com/).
 
 # Credits
